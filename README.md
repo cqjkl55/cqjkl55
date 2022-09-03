@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![](https://github-readme-stats.vercel.app/api?username=mayandev)
-
 - 🔭 重庆某学院2021级网络安全爱好者
 - 🌱 Web安全爱好者，
 - ⚡ 渗透测试 | JAVA安全研究
